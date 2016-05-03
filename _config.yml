@@ -2,6 +2,7 @@ name: visual
 favicon: null
 layout_spectrum: 0.8809557531494647
 typography_spectrum: 0.7671389018651098
+title: visuals
 cta:
   domain: null
   bucket: null
