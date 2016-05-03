@@ -1,0 +1,28 @@
+name: visual
+favicon: null
+layout_spectrum: 0.8809557531494647
+typography_spectrum: 0.7671389018651098
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6975890886969864
+  lightness: 0.6876997465733439
+  saturation: 0.3934202054515481
+  rhythmicContrast: 0.5041792674455792
+purpose: []
