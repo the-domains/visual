@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 1
+  brandStrength: 0.35401
   lightness: 0.4375
   brandColors:
     - '#040406'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: visual
 favicon: null
+name: visual
 opengraph:
   image: null
   type: null
